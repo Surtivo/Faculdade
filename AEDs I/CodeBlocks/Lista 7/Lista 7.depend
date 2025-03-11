@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1725453314 source:c:\users\emanu\downloads\aeds i\codeblocks\lista 7\unionfind.c
+	<stdio.h>
+	<stdlib.h>
+
+1725453321 source:c:\users\emanu\downloads\aeds i\codeblocks\lista 7\unionfindforest.c
+	<stdio.h>
+	<stdlib.h>
+
+1725453974 source:c:\users\emanu\downloads\aeds i\codeblocks\lista 7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1725453974 source:c:\users\emanu\downloads\aeds i\codeblocks\lista 7\unionfindlink.c
+	<stdio.h>
+	<stdlib.h>
+

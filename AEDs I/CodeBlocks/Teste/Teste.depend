@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1723067848 source:c:\users\emanu\downloads\aeds i\codeblocks\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"test.h"
+
+1722967376 c:\users\emanu\downloads\aeds i\codeblocks\teste\test.h
+
+1722967617 source:c:\users\emanu\downloads\aeds i\codeblocks\teste\test.c
+	"test.h"
+

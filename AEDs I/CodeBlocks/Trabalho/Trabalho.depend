@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1725913891 source:c:\users\emanu\downloads\aeds i\codeblocks\trabalho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1723420055 source:c:\users\emanu\downloads\aeds i\codeblocks\trabalho\header.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724188499 c:\users\emanu\downloads\aeds i\codeblocks\trabalho\header.h
+
+1723420346 c:\users\emanu\downloads\aeds i\codeblocks\trabalho\codigos.h
+
+1723634127 c:\users\emanu\downloads\aeds i\codeblocks\trabalho\quicksortencadeado.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1723634339 source:c:\users\emanu\downloads\aeds i\codeblocks\trabalho\quicksortencadeado.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1723640327 c:\users\emanu\downloads\aeds i\codeblocks\trabalho\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1724026343 source:c:\users\emanu\downloads\aeds i\codeblocks\trabalho\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+	"quicksort.h"
+
+1723684394 c:\users\emanu\downloads\aeds i\codeblocks\trabalho\quicksort.h
+
+1724104475 c:\users\emanu\downloads\aeds i\codeblocks\trabalho\quicksorts.h
+
+1724104732 source:c:\users\emanu\downloads\aeds i\codeblocks\trabalho\quicksorts.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"header.h"
+	"quicksorts.h"
+

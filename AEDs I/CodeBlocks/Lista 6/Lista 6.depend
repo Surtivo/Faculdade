@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1724841442 source:c:\users\emanu\downloads\aeds i\codeblocks\lista 6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1725450662 source:c:\users\emanu\downloads\aeds i\codeblocks\lista 6\arvores.c
+	<stdio.h>
+	<stdlib.h>
+

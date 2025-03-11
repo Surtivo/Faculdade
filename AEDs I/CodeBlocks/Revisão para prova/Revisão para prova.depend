@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1713305340 source:c:\users\emanu\downloads\aeds i\codeblocks\lista 3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1713317652 source:c:\users\emanu\downloads\aeds i\codeblocks\revisão para prova\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"HeapSort.c"
+	"Lista 3 - Professor.c"
+	"quicksort.c"
+
+1710948322 source:c:\users\emanu\downloads\aeds i\aula\heap e sorts\heap.c
+	<stdio.h>
+	<stdlib.h>
+	"heap.h"
+
+1710948464 c:\users\emanu\downloads\aeds i\aula\heap e sorts\heap.h
+
+1713305558 source:c:\users\emanu\downloads\aeds i\aula\heap e sorts\ord.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"heap.h"
+
+1713314623 c:\users\emanu\downloads\aeds i\codeblocks\revisão para prova\heapsort.c
+	<stdio.h>
+	<stdlib.h>
+
+1713313450 c:\users\emanu\downloads\aeds i\codeblocks\revisão para prova\lista 3 - professor.c
+	<stdio.h>
+	<stdlib.h>
+
+1713314397 c:\users\emanu\downloads\aeds i\codeblocks\revisão para prova\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
