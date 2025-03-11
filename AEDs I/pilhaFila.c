@@ -5,14 +5,17 @@ typedef struct pilha{
     int vet[100];
     int topo;
 }Pilha;
+
 Pilha* criaPilha(){
     Pilha* nova = (Pilha*) malloc(sizeof(Pilha));
     nova->topo = -1;
     return nova;
 }
+
 void empilha(Pilha* pilha, int x){
     pilha->vet[++pilha->topo] = x;
 }
+
 int desempilha(Pilha* pilha){
     if(pilha->topo == -1){
         printf("Stack underflow!");
